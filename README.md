@@ -16,6 +16,6 @@ View the full interactive analysis here: [https://rpubs.com/mariabalafouti/14129
 - **Custom UI:** Enhanced HTML reporting with Montserrat fonts and glassmorphism styling.
 
 ## Files in this Repository
-- `filename.Rmd`: The source code of the analysis.
-- `filename.html`: The final rendered report.
+- `Ex4.Rmd`: The source code of the analysis.
+- `Ex4.html`: The final rendered report.
 - `basket2.jpeg`: Background image used for the report styling.
